@@ -22,3 +22,4 @@ spec:
         name: traefik
       version: 9.18.2
   interval: 1m0s
+  createNamespace: true
